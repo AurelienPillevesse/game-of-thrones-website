@@ -1,0 +1,13 @@
+Voici les différents élements du projet :
+- Base de données
+- Codage
+- Diagrammes
+
+Pour utiliser ce projet :
+- Ajouter la base de données dans PHPMyAdmin
+- Positionner le projet dans le dossier /wamp/www/
+
+
+
+
+By Flaudias Pierre et Pillevesse Aurélien
